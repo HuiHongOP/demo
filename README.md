@@ -6,4 +6,4 @@ modified this README.md
 
 changed
 
-I hope this isn't a bad of issue
+Just Something going on
