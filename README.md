@@ -2,8 +2,8 @@
 
 This is a read me file
 
-modified this README.md
+Modified README.md
 
-changed
+Changed
 
-Just Something going on
+Just something going on
